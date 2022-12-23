@@ -82,6 +82,21 @@ footer{
     background-repeat: no-repeat;
 }
 
+.message-box{
+    background: linear-gradient(90deg, rgba(159,70,125,1) 0%, rgba(210,24,109,1) 0%, rgba(231,29,124,1) 100%);
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+    color: aliceblue;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    height: 20%;
+    padding-top: 50px;
+    opacity: 90%;
+}
 
 
 /* Thanks for watching */
