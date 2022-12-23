@@ -60,6 +60,7 @@ body{
 .box{
     margin-left: 10%;
     padding-right: 5%;
+    margin-top: 7%;
 }
 .work-section> .box > img{
     width: 450px;
@@ -72,7 +73,14 @@ body{
     -ms-border-radius: 7px;
     -o-border-radius: 7px;
 }
-
+footer{
+    background-image: url("../img/footer-bg.png");
+    height: 1000px;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
 
 
 
