@@ -72,7 +72,13 @@ body{
     -ms-border-radius: 7px;
     -o-border-radius: 7px;
 }
-
+footer{
+    background-image: url("../img/footer-bg.png");
+    height: 1000px;
+    padding: 0;
+    background-size: cover;
+    background-attachment: fixed;
+}
 
 
 
