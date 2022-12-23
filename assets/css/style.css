@@ -13,16 +13,15 @@ body{
     /* margin: 0; */
     font-family: 'Poppins', sans-serif;
 }
-section{
-    height: 1000px;
-    padding: 0;
-}
+
 .top-banner{
     background-image: url("../img/header-bg.png");
     background-repeat: no-repeat;
     margin-top: -20px;
     /* width: 100vh; */
     background-size: cover;
+    height: 1000px;
+    padding: 0;
     
 } 
 .half-width{
@@ -51,10 +50,19 @@ section{
 }
 .about-section{
     background-image: url("../img/biography-bg.png");
-    background-color: #F8F9FC;
+    height: 1000px;
+    padding: 0;
+}
+.work-section{
+    background-image: url("../img/latest-work-bg.png");
+    height: 650px ;
+    margin-top: 125px;
+}
+.box{
+    margin-left: 25px;
+    margin-right: 25px;
 
 }
-
 
 
 
