@@ -49,10 +49,10 @@ section{
 .half-width > .btn{
     margin-top: 50px;
 }
-
-.about-banner{
+.about-section{
     background-image: url("../img/biography-bg.png");
-    background-color: #F8F9FC
+    background-color: #F8F9FC;
+
 }
 
 
